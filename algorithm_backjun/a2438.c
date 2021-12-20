@@ -11,4 +11,5 @@ int main(void)
         printf("\n");
     }
     return 0;
+    // "*"은 char이고 i는 int이기 떄문에 다중 for문을 사용해야한다.
 }
